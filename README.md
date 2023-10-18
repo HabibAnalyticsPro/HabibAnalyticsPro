@@ -6,7 +6,8 @@
 
 
 <!-- Quote -->
-<p align="center">Fueling Curiosity, Sparking Insights - Data Is My Compass On This Journey! 
+<p align="center">Welcome to the portfolio of Aminu Adamu Habib, a Chemistry Lecturer turned Data Scientist.
+You will explore the unique intersection of chemistry and data, where complex algorithms meet the cosmos. Dive in to see the insights through the lens of data! 
   
   <!-- Social Network -->
 <h1 align="center">
